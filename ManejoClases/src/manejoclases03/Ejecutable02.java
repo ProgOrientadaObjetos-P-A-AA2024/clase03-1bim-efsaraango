@@ -22,7 +22,8 @@ public class Ejecutable02 {
         h3.establecerNombre("Manuel IM");
         /*
         Esta obteniendo los valores de la clase Hospital para poder presentar en pantalla, en este 
-        caso solo obtenemos el nombre que se establecio en h1.establecerNombre("Vaca Ortíz") del hospital y los otros valores se establencen por defecto.
+        caso solo obtenemos el nombre que se establecio en h1.establecerNombre("Vaca Ortíz") del hospital 
+        y los otros valores se establencen por defecto.
         
         */
         
